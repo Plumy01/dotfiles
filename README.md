@@ -1,2 +1,2 @@
 # dotfiles
-My default Linux dotfiles. 
+My default Linux dotfiles. Nothing more.
